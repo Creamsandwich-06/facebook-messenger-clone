@@ -22,6 +22,10 @@ Facebook Messenger Clone App is a sleek and efficient program built using React 
     <td>Programming Language</td>
     <td>React JS</td>
  </tr>
+  <tr>
+    <td>Styling Library</td>
+    <td>Material UI</td>
+ </tr>
 </table>
 
 ## Here is the link: 
