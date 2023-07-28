@@ -4,6 +4,9 @@
 
 Facebook Messenger Clone App is a sleek and efficient program built using React JS. Focused on simplicity and functionality, this app serves a single purpose: providing a seamless chatting experience. Through careful development and utilization of React JS, users can enjoy a straightforward interface tailored exclusively for messaging. Say hello to hassle-free conversations with the Facebook Messenger Clone App!
 
+
+![Facebook Messenger Clone logo](https://github.com/Creamsandwich-06/facebook-messenger-clone/blob/master/messenger_image.png)
+
 ## Tools and Software Used
 <table>
   <tr>
